@@ -1,4 +1,4 @@
-# Server Room Simulation
+# Simulation and Reliability Analysis of a Repairable System Model of a Data Center, SLA
 
 This project simulates the operational characteristics of a server room, including server failures, repairs, and maintenance. The simulation is based on a Weibull distribution for failure times and an exponential distribution for repair times. It is designed to model different service level agreements (SLAs) and evaluate performance using Monte Carlo simulations.
 
